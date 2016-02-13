@@ -24,18 +24,19 @@
 
 <body>
   <body>
-    <div id="container">
+     <div id="container">
       <h2>
         <strong>Goal: $500</strong>
       </h2>
       <div class="form-group">
-        <label for="amount">Amount</label>
+        <label for="amount">Add Money</label>
         <input type="text" id="amount" />
-        <button onclick="userChart()">Go!</button>
+        <button class="btn btn-success" onclick="userChart()">Go!</button>
       </div>
-      <div id="bar-1" class="bar-main-container azure">
+      <div id="bar-1" class="bar-main-container yellow">
         <div class="wrap">
-          <div class="bar-percentage" data-percentage="60"></div>
+          <div class="bar-username">Smiley</div>          
+          <div class="bar-percentage" data-percentage="300"></div>
           <div class="bar-container">
             <div class="bar"></div>
           </div>
@@ -43,6 +44,7 @@
       </div>
       <div id="bar-2" class="bar-main-container emerald">
         <div class="wrap">
+          <div class="bar-username">Sneezy</div>
           <div class="bar-percentage" data-percentage="258.5"></div>
           <div class="bar-container">
             <div class="bar"></div>
@@ -51,22 +53,25 @@
       </div>
       <div id="bar-3" class="bar-main-container violet">
         <div class="wrap">
-          <div class="bar-percentage" data-percentage="477"></div>
+          <div class="bar-username">Grumpy</div>          
+          <div class="bar-percentage" data-percentage="77"></div>
           <div class="bar-container">
             <div class="bar"></div>
           </div>
         </div>
       </div>
-      <div id="bar-4" class="bar-main-container yellow">
+      <div id="bar-4" class="bar-main-container red">
         <div class="wrap">
+          <div class="bar-username">Dopey</div>          
           <div class="bar-percentage" data-percentage="185.5"></div>
           <div class="bar-container">
             <div class="bar"></div>
           </div>
         </div>
       </div>
-      <div id="bar-5" class="bar-main-container red">
+      <div id="bar-5" class="bar-main-container azure">
         <div class="wrap">
+          <div class="bar-username">Sleepy</div>          
           <div class="bar-percentage" data-percentage="65.7"></div>
           <div class="bar-container">
             <div class="bar"></div>
