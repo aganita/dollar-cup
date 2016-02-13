@@ -33,13 +33,17 @@ h4 {
     text-align: center;
 }
 
-.btn-primary{
+.btn-success{
     background-color: #26A529;
-    border-color: #ACEA3C;
+    border-color: #9EE61A;
 }
 
-.btn-primary:hover {
-    background-color: #F1EA44;
+.btn-success:hover {
+    background-color: #19B241;
+    border-color: #9EE61A;
+}
+.btn-warning{
+    background-color: #F3D213;
     border-color: #F3DA50;
 }
 
@@ -183,4 +187,17 @@ body {
 .panel-past{
     color: rgba(255,255,255,0.7);
     background-color: #B5B5B5
+}
+.progress{
+  height:50px;
+}
+.progress-bar{
+  background-color: #068108;
+}
+.amount-total{
+  padding: 15px;
+  font-size: 20px;
+}
+.trophy{
+  max-height: 50px;
 }
