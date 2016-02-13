@@ -1,13 +1,9 @@
+/*Ha Na's CSS*/
 @import url(http://fonts.googleapis.com/css?family=Roboto:400);
 body {
   background-color:#fff;
   -webkit-font-smoothing: antialiased;
   font: normal 14px Roboto,arial,sans-serif;
-}
-
-.container {
-    padding: 25px;
-    position: fixed;
 }
 
 .form-login {
@@ -36,3 +32,20 @@ h4 {
 .wrapper {
     text-align: center;
 }
+
+.btn-primary{
+    background-color: #26A529;
+    border-color: #ACEA3C;
+}
+
+.btn-primary:hover {
+    background-color: #F1EA44;
+    border-color: #F3DA50;
+}
+
+.log-in-center{
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
