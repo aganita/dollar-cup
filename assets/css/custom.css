@@ -49,3 +49,15 @@ h4 {
     margin-top: 100px;
 }
 
+/* Meke's CSS styling */
+.container_createcomp { margin: 2em auto; width: 100%; text-align: center; }
+.container_createcomp img { margin: .5em; }
+.container_createcomp div.cols { display: inline-block; width: 30%; margin: .5em; height: 500px; padding: 20px 0;}
+.container_createcomp button { margin: 1.5em auto 0; width: 100%; border-radius: 5px; height: 50px;}
+.container_createcomp div form { text-align: left;  }
+.container_createcomp input { width: 200px; }
+.container_createcomp form label { width 100px; display: inline-block;}
+.container_createcomp div.left { height: 200px; width: 45%; position: relative; left: 0; display: inline; float: left;}
+.container_createcomp div.right { height: 200px; width: 45%; position: relative; right: 0; display: inline;}
+
+/* Meke's CSS styling */
