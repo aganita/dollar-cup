@@ -1,8 +1,8 @@
 Team/product name: Dollar Cup
-Team members: Anya, Hanna, and Meke
+Team members: Ani, Ha Na, and Meke
 Problem we're solving: #4 - How can we use tech to teach financial awareness in underprivileged communities?
 
-Objective: Create a tool that builds strong financial habits through healthy competition. Dollar Cup ...
+Objective: Create a tool that builds strong financial habits through healthy competition. Dollar Cup!
 
 Summary: There is a steady stream of mobile and social games cropping up, and we want Dollar Cup to contend with the biggest and most accessible apps out there: Mint and Personal Capital comes to mind. They are extremely useful, but they are also very solitary experiences. 
 
@@ -19,4 +19,14 @@ Nearly 45% of households are living in a state of financial insecurity*, with al
 
 The simplicity of the app is a great selling point because the less visual stimuli the better. It's streamlined and the color scheme brings the viewer's gaze to the most important parts of the site.
 
-Our creativity shined through building this app. Hanna built most of the front end, Anya the back end, and myself in the presentation and face of the app. Our strengths all play a role in its implementation, and we are honored to present the app to you.
+Our creativity shined through building this app. Ha Na built most of the front end, Ani the back end, and myself in the presentation and face of the app. Our strengths all play a role in its implementation, and we are honored to present the app to you.
+
+
+
+
+
+create profile -> create competition ( money saving, competetive reading, money saving/comp reading)
+
+
+
+buisness side: partneting with banks, aHedge fund, and authors. 
